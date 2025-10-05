@@ -16,7 +16,5 @@ public class MessageController {
     @MessageMapping("/chat.sendMessage") //TODO METTERE COSTANTE
     public void sendMessage(@Payload Message message) {
 
-        messagingTemplate.convertAndSend("giulia", "/queue/", message );
-        //test comment
     }
 }
