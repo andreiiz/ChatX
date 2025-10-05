@@ -9,5 +9,5 @@ public class ChatxApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ChatxApplication.class, args);
 	}
-
+	//test grafico
 }
