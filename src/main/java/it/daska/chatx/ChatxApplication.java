@@ -10,4 +10,5 @@ public class ChatxApplication {
 		SpringApplication.run(ChatxApplication.class, args);
 	}
 	//commit f1
+	//commit f2
 }
