@@ -8,4 +8,5 @@ public class Chat {
     private String chatName;
     private Long adminId;
     private Long lastMessage;
+    //test A
 }
